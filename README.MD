@@ -19,10 +19,10 @@ These libraries work together seamlessly, forming a powerful stack that allows d
 
 This repository contains four comprehensive Jupyter notebooks, each dedicated to one of the core Python data science libraries:
 
-### 01-Numpy.ipynb
-### 02-Pandas.ipynb
-### 03-Matplotlib.ipynb
-### 04-Seaborn.ipynb
+### 1. Numpy.ipynb
+### 2. Pandas.ipynb
+### 3. Matplotlib.ipynb
+### 4. Seaborn.ipynb
 
 ## Learning Pathway
 Each notebook contains:

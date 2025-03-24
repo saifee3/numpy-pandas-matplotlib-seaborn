@@ -1,0 +1,10 @@
+# Ignore Python cache and virtual environment files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+.env*/
+*.env
+*.venv
+

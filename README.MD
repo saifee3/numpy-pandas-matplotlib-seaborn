@@ -1211,8 +1211,8 @@ sns.histplot(data=tips, x="total_bill", stat="density")
 
 ## 🙏 Credits
 
-- NumPy Development Team - [@numpy](https://github.com/numpy/numpy)
 - Scientific Python Community
+- NumPy Development Team - [@numpy](https://github.com/numpy/numpy)
 - Pandas Development Team - [@pandas-dev](https://github.com/pandas-dev/pandas)
 - Matplotlib Development Team - [@matplotlib](https://github.com/matplotlib/matplotlib)
 - Seaborn Development Team - [@mwaskom](https://github.com/mwaskom/seaborn)

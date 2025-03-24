@@ -4,7 +4,6 @@
 Welcome to the comprehensive guide for mastering the Data Analysis and Visualization with Python. This repository contains carefully curated Jupyter notebooks designed to take you from the fundamentals of numerical computing to creating publication-quality visualizations. Whether you're a beginner looking to break into data science or an experienced professional seeking to deepen your expertise, this resource will serve as your companion on the journey to Python data science mastery.
 
 ## The Data Analysis and Visualization with Python
-
 In today's data-driven world, the ability to work with and understand data has become a crucial skill across various domains. Python has emerged as the premier language for data science, offering a powerful combination of flexibility, readability, and a rich ecosystem of libraries specifically designed for data manipulation, analysis, and visualization.
 
 At the core of this ecosystem are four fundamental libraries:
@@ -16,9 +15,7 @@ At the core of this ecosystem are four fundamental libraries:
 These libraries work together seamlessly, forming a powerful stack that allows data scientists to efficiently process, analyze, and visualize data.
 
 ## Repository Contents
-
 This repository contains four comprehensive Jupyter notebooks, each dedicated to one of the core Python data science libraries:
-
 ### 1. Numpy.ipynb
 ### 2. Pandas.ipynb
 ### 3. Matplotlib.ipynb
@@ -56,7 +53,7 @@ cd python-data-science-mastery
 # Start Jupyter Notebook
 jupyter notebook
 ```
-
+---
 ## ----------------------------------- BEGINNING OF NUMPY Guide ----------------------------------
 
 # 🚀 NumPy: The Ultimate Guide
@@ -316,9 +313,9 @@ static PyObject *myfunc(PyObject *self, PyObject *args) {
 6. **Applications**: Image processing, simulations
 
 
-## ----- END OF NUMPY Guide -----
+## ---------------------------------- END OF NUMPY Guide ----------------------------------
 ---
-## ----- BEGINNING OF PANDAS Guide -----
+## ------------------------------ BEGINNING OF PANDAS Guide -------------------------------
 
 # 🐼 Pandas: The Ultimate Guide
 <img src="https://github.com/user-attachments/assets/3d7386a5-4b3a-40de-99c6-858c45047365" alt="Custom Icon" width="1050" height="320">
@@ -667,9 +664,9 @@ class CustomAccessor:
 9. **Performance Optimization**: Efficient data processing
 10. **Advanced Topics**: Window functions, categorical data, extension arrays
 
-## ----- END OF PANDAS Guide -----
+## ----------------------------- END OF PANDAS Guide -----------------------------
 ---
-## ----- BEGINNING OF MATPLOTLIB Guide -----
+## ------------------------ BEGINNING OF MATPLOTLIB Guide ------------------------
 
 # 📊 Matplotlib: The Ultimate Guide
 <img src="https://github.com/user-attachments/assets/67ceb96c-14bb-45f6-a4fe-129314596a92 " alt="Custom Icon" width="1050" height="320">
@@ -961,9 +958,9 @@ register_projection(CustomProjection)
 7. **Performance**: Optimizing plotting for large datasets
 8. **Advanced Features**: Custom backends, transformations, projections
 
-## ----- END OF MATPLOTLIB Guide -----
+## ----------------------------- END OF MATPLOTLIB Guide -----------------------------
 ---
-## ----- BEGINNING OF SEABORN Guide -----
+## --------------------------- BEGINNING OF SEABORN Guide ----------------------------
 
 # 🎨 Seaborn: The Ultimate Guide
 <img src="https://github.com/user-attachments/assets/48599619-1833-43f2-aa06-d8ad4456db81" alt="Custom Icon" width="1050" height="320">

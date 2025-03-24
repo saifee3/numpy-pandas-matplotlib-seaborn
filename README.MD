@@ -57,7 +57,7 @@ cd python-data-science-mastery
 jupyter notebook
 ```
 
-## ----- BEGINNING OF NUMPY Guide -----
+## --- BEGINNING OF NUMPY Guide ---
 
 # 🚀 NumPy: The Ultimate Guide
 <img src="https://github.com/user-attachments/assets/ec69a56a-86e0-4935-bdac-d3e9fd5d6e15" alt="Custom Icon" width="1050" height="320">

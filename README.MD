@@ -1,5 +1,5 @@
 # Data Analysis and Visualization with Python [Numpy, Pandas, Matplotlib, Seaborn]
-<img src="https://github.com/user-attachments/assets/99003664-7cc0-4278-9362-698d8d8a9e69" alt="Custom Icon" width="1050" height="300">
+<img src="https://github.com/user-attachments/assets/99003664-7cc0-4278-9362-698d8d8a9e69" alt="Custom Icon" width="1050" height="320">
 
 Welcome to the comprehensive guide for mastering the Data Analysis and Visualization with Python. This repository contains carefully curated Jupyter notebooks designed to take you from the fundamentals of numerical computing to creating publication-quality visualizations. Whether you're a beginner looking to break into data science or an experienced professional seeking to deepen your expertise, this resource will serve as your companion on the journey to Python data science mastery.
 
@@ -60,7 +60,7 @@ jupyter notebook
 ## ----- BEGINNING OF NUMPY Guide -----
 
 # 🚀 NumPy: The Ultimate Guide
-<img src="https://numpy.org/images/logo.svg" alt="Custom Icon" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/ec69a56a-86e0-4935-bdac-d3e9fd5d6e15" alt="Custom Icon" width="1050" height="320">
 
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.0-blue?logo=numpy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green?logo=python)
@@ -334,7 +334,7 @@ NumPy is more than just a Python library—it's a fundamental paradigm shift in 
 ## ----- BEGINNING OF PANDAS Guide -----
 
 # 🐼 Pandas: The Ultimate Guide
-<img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Custom Icon" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/3d7386a5-4b3a-40de-99c6-858c45047365" alt="Custom Icon" width="1050" height="320">
 
 ![PyPI version](https://img.shields.io/pypi/v/pandas.svg)
 ![Python versions](https://img.shields.io/pypi/pyversions/pandas.svg)
@@ -700,7 +700,7 @@ Pandas is an essential tool for anyone working with data in Python. Its powerful
 ## ----- BEGINNING OF MATPLOTLIB Guide -----
 
 # 📊 Matplotlib: The Ultimate Guide
-<img src="https://matplotlib.org/stable/_static/logo2_hex.png" alt="Custom Icon" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/67ceb96c-14bb-45f6-a4fe-129314596a92 " alt="Custom Icon" width="1050" height="320">
 
 ![PyPI version](https://img.shields.io/pypi/v/matplotlib.svg)
 ![Python versions](https://img.shields.io/pypi/pyversions/matplotlib.svg)
@@ -1009,7 +1009,7 @@ Matplotlib is the cornerstone of data visualization in Python. Its versatility, 
 ## ----- BEGINNING OF SEABORN Guide -----
 
 # 🎨 Seaborn: The Ultimate Guide
-<img src="https://seaborn.pydata.org/_static/logo-large.png" alt="Custom Icon" width="500" height="250">
+<img src="https://github.com/user-attachments/assets/48599619-1833-43f2-aa06-d8ad4456db81" alt="Custom Icon" width="1050" height="320">
 
 ![PyPI version](https://img.shields.io/pypi/v/seaborn.svg)
 ![Python versions](https://img.shields.io/pypi/pyversions/seaborn.svg)

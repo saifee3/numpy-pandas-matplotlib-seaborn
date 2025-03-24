@@ -57,7 +57,7 @@ cd python-data-science-mastery
 jupyter notebook
 ```
 
-##                               ------ BEGINNING OF NUMPY Guide ------
+## -------------------- BEGINNING OF NUMPY Guide --------------------
 
 # 🚀 NumPy: The Ultimate Guide
 <img src="https://github.com/user-attachments/assets/ec69a56a-86e0-4935-bdac-d3e9fd5d6e15" alt="Custom Icon" width="1050" height="320">
@@ -315,22 +315,9 @@ static PyObject *myfunc(PyObject *self, PyObject *args) {
 5. **Advanced**: Structured arrays, C extensions
 6. **Applications**: Image processing, simulations
 
----
-
-## 🌐 Community & Resources
-
-- [Official Documentation](https://numpy.org/doc/)
-- [NumPy GitHub](https://github.com/numpy/numpy)
-- [SciPy Lectures](http://scipy-lectures.org/intro/numpy/index.html)
-- [NumPy for MATLAB Users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
-
----
-
-## 📝 Conclusion
-
-NumPy is more than just a Python library—it's a fundamental paradigm shift in how we think about data manipulation. By mastering its array operations, broadcasting rules, and memory model, you gain superpowers in numerical computing that extend far beyond Python itself. Whether you're processing satellite imagery, simulating quantum systems, or building machine learning models, NumPy provides the foundation that makes complex computations elegant and efficient.
 
 ## ----- END OF NUMPY Guide -----
+---
 ## ----- BEGINNING OF PANDAS Guide -----
 
 # 🐼 Pandas: The Ultimate Guide
@@ -680,23 +667,8 @@ class CustomAccessor:
 9. **Performance Optimization**: Efficient data processing
 10. **Advanced Topics**: Window functions, categorical data, extension arrays
 
----
-
-## 🌐 Community & Resources
-
-- [Official Documentation](https://pandas.pydata.org/docs/)
-- [Pandas GitHub](https://github.com/pandas-dev/pandas)
-- [Pandas Cookbook](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html)
-- [Real Python Pandas Tutorials](https://realpython.com/tutorials/pandas/)
-- [Kaggle Pandas Micro-Course](https://www.kaggle.com/learn/pandas)
-
----
-
-## 📝 Conclusion
-
-Pandas is an essential tool for anyone working with data in Python. Its powerful data structures and extensive functionality make it the go-to library for data manipulation and analysis. By mastering pandas, you gain the ability to efficiently process and transform data, enabling you to focus on the insights rather than the mechanics of data handling.
-
 ## ----- END OF PANDAS Guide -----
+---
 ## ----- BEGINNING OF MATPLOTLIB Guide -----
 
 # 📊 Matplotlib: The Ultimate Guide
@@ -989,23 +961,8 @@ register_projection(CustomProjection)
 7. **Performance**: Optimizing plotting for large datasets
 8. **Advanced Features**: Custom backends, transformations, projections
 
----
-
-## 🌐 Community & Resources
-
-- [Official Documentation](https://matplotlib.org/stable/contents.html)
-- [Matplotlib GitHub](https://github.com/matplotlib/matplotlib)
-- [Matplotlib Examples](https://matplotlib.org/stable/gallery/index.html)
-- [Real Python Matplotlib Tutorials](https://realpython.com/tutorials/matplotlib/)
-- [Matplotlib Cookbook](https://matplotlib.org/stable/users/explain.html)
-
----
-
-## 📝 Conclusion
-
-Matplotlib is the cornerstone of data visualization in Python. Its versatility, customization options, and integration capabilities make it an essential tool for anyone working with data. By mastering Matplotlib, you gain the ability to create insightful, publication-quality visualizations that effectively communicate complex information.
-
 ## ----- END OF MATPLOTLIB Guide -----
+---
 ## ----- BEGINNING OF SEABORN Guide -----
 
 # 🎨 Seaborn: The Ultimate Guide
@@ -1254,21 +1211,6 @@ sns.histplot(data=tips, x="total_bill", stat="density")
 4. **Integration**: Working with Pandas, NumPy, and Jupyter
 5. **Performance**: Optimizing visualization for large datasets
 6. **Advanced Features**: Custom estimators, statistical transformations
-
----
-
-## 🌐 Community & Resources
-
-- [Official Documentation](https://seaborn.pydata.org/)
-- [Seaborn GitHub](https://github.com/mwaskom/seaborn)
-- [Example Gallery](https://seaborn.pydata.org/examples/index.html)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/seaborn)
-
----
-
-## 📝 Conclusion
-
-Seaborn is a powerful library that simplifies the creation of informative and attractive statistical visualizations in Python. By building on Matplotlib and integrating closely with Pandas, it provides a high-level interface for complex visualizations while maintaining flexibility for customization.
 
 ---
 ---

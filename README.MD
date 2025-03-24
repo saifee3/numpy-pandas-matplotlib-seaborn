@@ -314,7 +314,6 @@ static PyObject *myfunc(PyObject *self, PyObject *args) {
 
 
 ## -------------------------------------- END OF NUMPY GUIDE ---------------------------------------
----
 ## ---------------------------------- BEGINNING OF PANDAS GUIDE ----------------------------------
 
 # 🐼 Pandas: The Ultimate Guide
@@ -665,7 +664,6 @@ class CustomAccessor:
 10. **Advanced Topics**: Window functions, categorical data, extension arrays
 
 ## ----------------------------------- END OF PANDAS GUIDE -----------------------------------------
----
 ## ------------------------------ BEGINNING OF MATPLOTLIB GUIDE ---------------------------------
 
 # 📊 Matplotlib: The Ultimate Guide
@@ -959,7 +957,6 @@ register_projection(CustomProjection)
 8. **Advanced Features**: Custom backends, transformations, projections
 
 ## ---------------------------------- END OF MATPLOTLIB Guide --------------------------------------
----
 ## -------------------------------- BEGINNING OF SEABORN Guide -----------------------------------
 
 # 🎨 Seaborn: The Ultimate Guide

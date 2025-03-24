@@ -1213,13 +1213,7 @@ sns.histplot(data=tips, x="total_bill", stat="density")
 
 - NumPy Development Team - [@numpy](https://github.com/numpy/numpy)
 - Scientific Python Community
-- Icon credits: [Shields.io](https://shields.io), [Twemoji](https://twemoji.twitter.com)
 - Pandas Development Team - [@pandas-dev](https://github.com/pandas-dev/pandas)
-- Scientific Python Community
-- Icon credits: [Shields.io](https://shields.io), [Twemoji](https://twemoji.twitter.com)
 - Matplotlib Development Team - [@matplotlib](https://github.com/matplotlib/matplotlib)
-- Scientific Python Community
-- Icon credits: [Shields.io](https://shields.io), [Twemoji](https://twemoji.twitter.com)
 - Seaborn Development Team - [@mwaskom](https://github.com/mwaskom/seaborn)
-- Scientific Python Community
-- Icon credits: [Shields.io](https://shields.io), [Twemoji](https://twemoji.twitter.com)
+- Banner Images: from Real 

@@ -54,7 +54,7 @@ cd python-data-science-mastery
 jupyter notebook
 ```
 ---
-## ----------------------------------- BEGINNING OF NUMPY Guide ----------------------------------
+## ----------------------------------- BEGINNING OF NUMPY GUIDE ----------------------------------
 
 # 🚀 NumPy: The Ultimate Guide
 <img src="https://github.com/user-attachments/assets/ec69a56a-86e0-4935-bdac-d3e9fd5d6e15" alt="Custom Icon" width="1050" height="320">
@@ -313,9 +313,9 @@ static PyObject *myfunc(PyObject *self, PyObject *args) {
 6. **Applications**: Image processing, simulations
 
 
-## ---------------------------------- END OF NUMPY Guide ----------------------------------
+## -------------------------------------- END OF NUMPY GUIDE --------------------------------------
 ---
-## ------------------------------ BEGINNING OF PANDAS Guide -------------------------------
+## ---------------------------------- BEGINNING OF PANDAS GUIDE -----------------------------------
 
 # 🐼 Pandas: The Ultimate Guide
 <img src="https://github.com/user-attachments/assets/3d7386a5-4b3a-40de-99c6-858c45047365" alt="Custom Icon" width="1050" height="320">
@@ -664,9 +664,9 @@ class CustomAccessor:
 9. **Performance Optimization**: Efficient data processing
 10. **Advanced Topics**: Window functions, categorical data, extension arrays
 
-## ----------------------------- END OF PANDAS Guide -----------------------------
+## ----------------------------------- END OF PANDAS GUIDE -----------------------------------
 ---
-## ------------------------ BEGINNING OF MATPLOTLIB Guide ------------------------
+## ------------------------------ BEGINNING OF MATPLOTLIB GUIDE ------------------------------
 
 # 📊 Matplotlib: The Ultimate Guide
 <img src="https://github.com/user-attachments/assets/67ceb96c-14bb-45f6-a4fe-129314596a92 " alt="Custom Icon" width="1050" height="320">
@@ -958,9 +958,9 @@ register_projection(CustomProjection)
 7. **Performance**: Optimizing plotting for large datasets
 8. **Advanced Features**: Custom backends, transformations, projections
 
-## ----------------------------- END OF MATPLOTLIB Guide -----------------------------
+## ---------------------------------- END OF MATPLOTLIB Guide ----------------------------------
 ---
-## --------------------------- BEGINNING OF SEABORN Guide ----------------------------
+## -------------------------------- BEGINNING OF SEABORN Guide ---------------------------------
 
 # 🎨 Seaborn: The Ultimate Guide
 <img src="https://github.com/user-attachments/assets/48599619-1833-43f2-aa06-d8ad4456db81" alt="Custom Icon" width="1050" height="320">

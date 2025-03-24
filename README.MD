@@ -53,7 +53,7 @@ cd python-data-science-mastery
 # Start Jupyter Notebook
 jupyter notebook
 ```
----
+
 ## ----------------------------------- BEGINNING OF NUMPY GUIDE ---------------------------------
 
 # 🚀 NumPy: The Ultimate Guide

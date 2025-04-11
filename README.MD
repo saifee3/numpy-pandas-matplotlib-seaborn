@@ -1,4 +1,4 @@
-# Data Analysis and Visualization with Python [Numpy, Pandas, Matplotlib, Seaborn]
+# Data Analysis and Visualization with Python [Numpy, Pandas, Matplotlib, Seaborn]...
 <img src="https://github.com/user-attachments/assets/99003664-7cc0-4278-9362-698d8d8a9e69" alt="Custom Icon" width="1050" height="320">
 
 Welcome to the comprehensive guide for mastering the Data Analysis and Visualization with Python. This repository contains carefully curated Jupyter notebooks designed to take you from the fundamentals of numerical computing to creating publication-quality visualizations. Whether you're a beginner looking to break into data science or an experienced professional seeking to deepen your expertise, this resource will serve as your companion on the journey to Python data science mastery.
